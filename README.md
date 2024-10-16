@@ -1,4 +1,5 @@
-<img width="1665" alt="Screenshot 2024-10-15 at 8 02 54 AM" src="https://github.com/user-attachments/assets/c1b6ec83-e9b9-45cf-b725-e5d013b46198">
+<img width="1660" alt="Screenshot 2024-10-16 at 6 18 50 AM" src="https://github.com/user-attachments/assets/64be755f-064c-4125-a9c6-654593ce9a3c">
+
 
 
 **E-commerce App**
@@ -62,5 +63,8 @@ The goal of this **E-commerce App** is to offer users a convenient and engaging 
 **Responsive Design:** The app adapts fluidly to various screen sizes, providing a user-friendly experience on mobile, tablet, and desktop devices.
 
 **Intuitive Navigation:** A well-structured navigation system makes it easy for users to find what they’re looking for, from browsing products to accessing the cart and checkout.
+
+**Animations and Transitions:** Smooth animations and transitions add to the app's polished look, enhancing overall engagement.
+
 
 
