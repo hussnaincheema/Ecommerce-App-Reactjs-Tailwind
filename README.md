@@ -47,13 +47,13 @@ The goal of this **E-commerce App** is to offer users a convenient and engaging 
 **Technologies Used**
 
 
-**React JS** React is used to build the app’s dynamic and reusable UI components, enabling a seamless and interactive user experience.
+**React JS:** React is used to build the app’s dynamic and reusable UI components, enabling a seamless and interactive user experience.
 
 
-**Vite** Vite enhances development speed with faster builds and live hot reloading, streamlining the development workflow and optimizing the app for production.
+**Vite:** Vite enhances development speed with faster builds and live hot reloading, streamlining the development workflow and optimizing the app for production.
 
 
-**Tailwind CSS** Tailwind CSS provides a utility-first approach to styling, allowing for quick design adjustments and ensuring a consistent look across the application.
+**Tailwind CSS:** Tailwind CSS provides a utility-first approach to styling, allowing for quick design adjustments and ensuring a consistent look across the application.
 
 
 **Enhanced User Experience**
