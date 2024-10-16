@@ -67,4 +67,20 @@ The goal of this **E-commerce App** is to offer users a convenient and engaging 
 **Animations and Transitions:** Smooth animations and transitions add to the app's polished look, enhancing overall engagement.
 
 
+**Contributing**
+
+If you’re interested in contributing to the project, feel free to open an issue or submit a pull request on the GitHub repository.
+
+
+**Contact**
+
+For any inquiries or support, please reach out to us at: **cheemahussnain155@gmail.com**
+
+
+
+                                                                              **..................................................**
+
+
+
+
 
