@@ -5,13 +5,13 @@
 **E-commerce App**
 
 
-This **E-commerce App** is a modern, fully responsive web application designed to provide users with a streamlined online shopping experience. Built with the latest web technologies, it includes a clean and intuitive interface, allowing users to browse, search, and order products seamlessly. The app also incorporates a simple user flow for adding items to the cart, specifying delivery details, and confirming orders.
+This **E-commerce App** is a modern, fully responsive web application designed to provide users with a streamlined online shopping experience. Built with the latest web technologies, including Redux for state management, it features a clean and intuitive interface, allowing users to browse, search, and order products seamlessly. The app incorporates a simple user flow for adding items to the cart, specifying delivery details, and confirming orders, with Redux ensuring efficient management of application-wide states such as cart data and user information.
 
 
 **Project Goals**
 
 
-The goal of this **E-commerce App** is to offer users a convenient and engaging platform for online shopping. With a focus on usability and responsive design, the app ensures that users can browse products, make selections, and place orders from any device, whether it's a mobile phone, tablet, or desktop.
+The goal of this **E-commerce App** is to offer users a convenient and engaging platform for online shopping. With a focus on usability and responsive design, the app ensures that users can browse products, make selections, and place orders from any device, whether it's a mobile phone, tablet, or desktop. Redux is used to provide a consistent state across these devices, improving performance and user experience.
 
 
 **Key Features**
