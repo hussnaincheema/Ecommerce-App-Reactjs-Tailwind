@@ -57,6 +57,9 @@ The goal of this **E-commerce App** is to offer users a convenient and engaging 
 **Tailwind CSS:** Tailwind CSS provides a utility-first approach to styling, allowing for quick design adjustments and ensuring a consistent look across the application.
 
 
+**Redux:** Redux is used for state management, ensuring efficient handling of global states, such as the cart, user data, and product information, for a smooth user experience.
+
+
 **Enhanced User Experience**
 
 
